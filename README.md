@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Om Sahu
 
-<!--
-**omsahu1512/omsahu1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Exploring Cybersecurity
+
+📚 Currently Learning DSA with Java
+
+---
+
+## 🛠️ Skills
+
+- Java
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🏋️ SmartFit Health Tracker
+A web application for workout, diet and health tracking.
+
+### 🌐 Personal Portfolio
+My responsive personal portfolio website.
+
+### 🤝 InAmigos Foundation Internship
+NGO awareness website built using HTML, CSS and JavaScript.
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- Software Development
+- Cybersecurity
+- DBMS
+
+---
+
+## 🎯 Goals
+
+- Build real-world projects
+- Improve DSA
+- Learn cybersecurity
+- Contribute to open source
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
