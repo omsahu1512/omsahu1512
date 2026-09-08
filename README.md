@@ -112,7 +112,7 @@ focusing on the organization's mission, projects and social impact.
 <p>
   <a href="https://www.linkedin.com/in/om-sahu-084850381?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>\u003Cimg src=\"https://github-readme-streak-stats.herokuapp.com/?user=omsahu1512&theme=tokyonight&hide_border=true\" />
+  </a>
   
   <a href="https://omsahu1512.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
